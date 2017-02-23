@@ -1,0 +1,19 @@
+p {
+  font-size: 20px !important;
+}
+
+.header-main-right {
+  padding-top:5px;
+}
+
+.center-text {
+  text-align: center;
+}
+
+p.bs-header {
+text-align: center;
+margin-bottom: 0px;
+padding-bottom: 0px;
+margin-top: 40px;
+margin-bottom: -50px;
+}
